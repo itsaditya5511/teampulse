@@ -557,3 +557,12 @@ Each endpoint is classified:
 - `down` — Request failed or timed out
 
 Uptime percentage and a rolling 100-entry history are maintained per endpoint.
+
+---
+
+## Contributors
+
+| Contributor | Role |
+|---|---|
+| [itsaditya5511](https://github.com/itsaditya5511) | Project Author & Full-Stack Developer |
+| [Claude](https://claude.ai) | AI Pair Programmer |
