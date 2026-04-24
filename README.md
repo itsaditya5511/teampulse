@@ -1,5 +1,10 @@
 # TeamPulse — AI-Powered Internal Operations Dashboard
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://itsaditya5511.github.io/teampulse/)
+[![Deploy to GitHub Pages](https://github.com/itsaditya5511/teampulse/actions/workflows/deploy.yml/badge.svg)](https://github.com/itsaditya5511/teampulse/actions/workflows/deploy.yml)
+
+> **Live Demo:** [https://itsaditya5511.github.io/teampulse/](https://itsaditya5511.github.io/teampulse/)
+
 TeamPulse is a full-stack web application that provides role-based dashboards for managing team workflows across Development, DevOps, SEO, and Project Management domains. It features real-time notifications, bug tracking, deployment monitoring, API health checks, and SEO analytics.
 
 ---
